@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "22aadc41-aacc-40b9-8348-e04d2024b23f",
+    "name": "Jens Klimke",
+    "email": "jens.klimke@rwth-aachen.de",
+    "email_verified": true,
+    "organizations": [
+      "e7c12182-fe7b-4232-a0df-beb1b3ef4f63",
+      "6b3c4dec-984f-4636-b7eb-dff117a8c2aa"
+    ]
+  },
+  {
+    "_id": "d2533804-963b-42f1-827f-2d778982ecdd",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "email_verified": false,
+    "organizations": [
+      "6b3c4dec-984f-4636-b7eb-dff117a8c2aa"
+    ]
+  }
+]
